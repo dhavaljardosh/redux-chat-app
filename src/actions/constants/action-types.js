@@ -1,0 +1,6 @@
+export const SET_ACTIVE_USER_ID = "SET_ACTIVE_USER_ID";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const SET_TYPING = "SET_TYPING";
+export const SEND_MESSAGE = "SEND_MESSAGE";
+export const EDIT_MESSAGE = "EDIT_MESSAGE";
+export const DELETE_MESSAGE = "DELETE_MESSAGE";
